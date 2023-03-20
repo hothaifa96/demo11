@@ -1,4 +1,3 @@
-print('hello1')
-print('hello2')
-print('hello3')
-print('hello4')
+
+for i in range(4):
+    print(f'hello{i+1}')
